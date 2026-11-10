@@ -1,5 +1,8 @@
 # ctx-pack
 
+> **This project now lives in its own repository:**  
+> → [https://github.com/Omitofo/ctx-pack](https://github.com/Omitofo/ctx-pack)
+
 CLI tool that packages a folder into clean, structured context for LLMs.
 
 ## Core Goals
