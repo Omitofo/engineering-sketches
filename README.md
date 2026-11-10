@@ -8,7 +8,7 @@ These are intentionally focused and completable. The goal is quality over quanti
 
 ## Project Ideas
 
-### 1. `ctx-pack`
+### 1. `ctx-pack` → [Dedicated Repository](https://github.com/Omitofo/ctx-pack)
 **CLI tool that packages a folder into clean, structured context for LLMs.**
 
 - Respects `.gitignore` + custom ignore rules
@@ -19,7 +19,7 @@ These are intentionally focused and completable. The goal is quality over quanti
 
 **Why it’s strong:** Extremely relevant to AI/context work while remaining general-purpose and useful to other developers.
 
-**Status:** Idea
+**Status:** In development → [github.com/Omitofo/ctx-pack](https://github.com/Omitofo/ctx-pack)
 
 ---
 
@@ -69,8 +69,5 @@ These are intentionally focused and completable. The goal is quality over quanti
 
 ## How this repo will evolve
 
-- Each idea will live in its own folder once we decide to pursue it.
-- Only one (or two) will be fully built and polished.
-- The rest may stay as documented ideas or light sketches.
-
-Pick the one you want to pursue first and we’ll start building it properly.
+- Promising ideas get their own dedicated repositories.
+- This repo remains the index / sketchbook.
